@@ -15,7 +15,7 @@ var app = express();
 app.set('views', path.join(__dirname, 'app_server', 'views'));
 
 //register handlebars partials
-handlebars.registerPartials(__dirname + '/app_server/views/partials');
+handlebars.registerPartials(__dirname + '/app_server/views/partial');
 
 app.set('view engine', 'hbs');
 
