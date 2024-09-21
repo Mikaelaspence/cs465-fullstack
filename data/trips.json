@@ -2,16 +2,16 @@
   {
     "name": "Gale Reef",
     "image": "reef1.jpg",
-    "description": "<p>Gale Reef Sed et augue lorem. In sit amet placerat orci. Nam sodales placerat augue. Curabitur vulputate vestibulum lorem. In aliquam felis ut augue pulvinar, eget venenatis felis ornare.</p>"
+    "description": "<p>Sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis.</p><p>Sed consequat libero ut turpis venenatis ut aliquam risus semper. Etiam convallis mi vel risus pretium sodales. Etiam nunc lorem ullamcorper vitae laoreet.</p>"
   },
   {
     "name": "Dawson's Reef",
     "image": "reef2.jpg",
-    "description": "<p>Dawson's Reef Integer magna leo, posuere et dignissim ac, consequat in magna. Donec scelerisque feugiat justo, non lacinia odio fermentum id. Mauris pharetra orci sit amet facilisis hendrerit.</p>"
+    "description": "<p>Integer magna leo, posuere et dignissim ac, consequat in magna. Donec scelerisque feugiat justo, non lacinia odio fermentum id. Mauris pharetra orci sit amet facilisis hendrerit.</p><p>Etiam nunc libero, blandit sed turpis eget, fringilla aliquet nunc. Aliquam erat volutpat.</p>"
   },
   {
     "name": "Claire's Reef",
     "image": "reef3.jpg",
-    "description": "<p>Claire's Reef Donec sed felis risus. Nulla facilisi. Vestibulum nec magna cursus, pulvinar dolor sed, ornare justo. Suspendisse potenti. Mauris sed vehicula sapien, ac dignissim ipsum.</p>"
+    "description": "<p>Donec sed felis risus. Nulla facilisi. Donec a orci tellus, et auctor odio. Fusce ac orci nibh, quis semper arcu. Cras orci neque, euismod et accumsan ac, sagittis molestie lorem.</p><p>Proin odio sapien, elementum at tempor non. Vulputate eget libero. In hac habitasse platea dictumst. Integer purus justo, egestas eu consectetur eu, cursus in tortor.</p>"
   }
 ]
