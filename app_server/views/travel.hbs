@@ -15,12 +15,18 @@
 					<div>
 						<div class="body">
 							<h1>Travel</h1>
+
+							<!-- Display message if available -->
+							{{#if message}}
+								<p>{{message}}</p>
+							{{/if}}
+
 							<ul id="sites">
 								{{#each trips}}
 								<li>
-									<a href="/travel"><img src="images/{{this.image}}" alt="Img"></a>
+									<a href="/api/trips/{{this.code}}"><img src="images/{{this.image}}" alt="Img"></a>
 									<h2><a href="/travel">{{this.name}}</a></h2>
-									{{this.description}}
+									{{{this.description}}} <!-- Triple curly braces to render HTML -->
 								</li>
 								{{/each}}
 							</ul>
@@ -29,7 +35,7 @@
 				</div>
 			</div>
 		</div>
-		{{> footer}}
+		{{> footer }}
 	</div>
 </body>
 </html>
